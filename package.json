@@ -1,5 +1,6 @@
 {
   "name": "morpion",
+  "homepage": "http://morpion.kae-dev.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
